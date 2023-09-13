@@ -10,7 +10,7 @@ public class ApplicationConfig {
 	@Bean
 	public Person person() {
 		Person p1 = new Person();
-		p1.setFirstName("Janani");
+		p1.setFirstName("Jans");
 		return p1;
 	}
 
